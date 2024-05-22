@@ -5,8 +5,21 @@
         <link>https://wh3remyfriends.github.io</link>
         <description></description>
         <language>en</language>
-        <pubDate>Wed, 22 May 2024 07:53:57 -0300</pubDate>
-        <lastBuildDate>Wed, 22 May 2024 07:53:57 -0300</lastBuildDate>
+        <pubDate>Wed, 22 May 2024 10:22:53 -0300</pubDate>
+        <lastBuildDate>Wed, 22 May 2024 10:22:53 -0300</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://wh3remyfriends.github.io/2024/05/22/com-apple-darwin/</guid>
+            <title>com.apple.darwin</title>
+            <link>https://wh3remyfriends.github.io/2024/05/22/com-apple-darwin/</link>
+            <pubDate>Wed, 22 May 2024 10:22:53 -0300</pubDate>
+            <description><![CDATA[ &lt;p&gt;NVRAM&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;7C436110-AB2A-4BBB-A880-FE41995C9F82&lt;br&gt;boot-args&lt;br&gt;-nredvcn&lt;/p&gt;
+&lt;p&gt;smbios&lt;br&gt;(nred)&lt;br&gt;iMacPro1,1&lt;br&gt;MacBookPro16,3&lt;/p&gt;
+&lt;p&gt;/var/tmp&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://wh3remyfriends.github.io/2024/05/22/bin-exp/</guid>
             <title>bin exp</title>

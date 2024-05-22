@@ -3,7 +3,20 @@
     <id>https://wh3remyfriends.github.io</id>
     <title>wh3remyfriends</title>
     <link href="https://wh3remyfriends.github.io" />
-    <updated>2024-05-22T10:53:57.000Z</updated>
+    <updated>2024-05-22T13:22:53.000Z</updated>
+    <entry>
+        <id>https://wh3remyfriends.github.io/2024/05/22/com-apple-darwin/</id>
+        <title>com.apple.darwin</title>
+        <link rel="alternate" href="https://wh3remyfriends.github.io/2024/05/22/com-apple-darwin/"/>
+        <content type="html">&lt;p&gt;NVRAM&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;7C436110-AB2A-4BBB-A880-FE41995C9F82&lt;br&gt;boot-args&lt;br&gt;-nredvcn&lt;/p&gt;
+&lt;p&gt;smbios&lt;br&gt;(nred)&lt;br&gt;iMacPro1,1&lt;br&gt;MacBookPro16,3&lt;/p&gt;
+&lt;p&gt;/var/tmp&lt;/p&gt;
+</content>
+        <updated>2024-05-22T13:22:53.000Z</updated>
+    </entry>
     <entry>
         <id>https://wh3remyfriends.github.io/2024/05/22/bin-exp/</id>
         <title>bin exp</title>

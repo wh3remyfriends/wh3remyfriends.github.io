@@ -5,6 +5,14 @@
     "home_page_url": "https://wh3remyfriends.github.io",
     "items": [
         {
+            "id": "https://wh3remyfriends.github.io/2024/05/22/com-apple-darwin/",
+            "url": "https://wh3remyfriends.github.io/2024/05/22/com-apple-darwin/",
+            "title": "com.apple.darwin",
+            "date_published": "2024-05-22T13:22:53.000Z",
+            "content_html": "<p>NVRAM</p>\n<blockquote>\n</blockquote>\n<p>7C436110-AB2A-4BBB-A880-FE41995C9F82<br>boot-args<br>-nredvcn</p>\n<p>smbios<br>(nred)<br>iMacPro1,1<br>MacBookPro16,3</p>\n<p>/var/tmp</p>\n",
+            "tags": []
+        },
+        {
             "id": "https://wh3remyfriends.github.io/2024/05/22/bin-exp/",
             "url": "https://wh3remyfriends.github.io/2024/05/22/bin-exp/",
             "title": "bin exp",
