@@ -1,0 +1,24 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "wh3remyfriends",
+    "description": "",
+    "home_page_url": "https://wh3remyfriends.github.io",
+    "items": [
+        {
+            "id": "https://wh3remyfriends.github.io/2024/05/22/bin-exp/",
+            "url": "https://wh3remyfriends.github.io/2024/05/22/bin-exp/",
+            "title": "bin exp",
+            "date_published": "2024-05-22T10:53:57.000Z",
+            "content_html": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">python3 -c <span class=\"string\">&quot;print(&#x27;A&#x27; * 64) | ./exp&quot;</span></span><br></pre></td></tr></table></figure>\n",
+            "tags": []
+        },
+        {
+            "id": "https://wh3remyfriends.github.io/2024/05/22/recon/",
+            "url": "https://wh3remyfriends.github.io/2024/05/22/recon/",
+            "title": "recon",
+            "date_published": "2024-05-22T10:53:22.000Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
+}

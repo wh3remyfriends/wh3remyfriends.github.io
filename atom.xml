@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wh3remyfriends.github.io</id>
+    <title>wh3remyfriends</title>
+    <link href="https://wh3remyfriends.github.io" />
+    <updated>2024-05-22T10:53:57.000Z</updated>
+    <entry>
+        <id>https://wh3remyfriends.github.io/2024/05/22/bin-exp/</id>
+        <title>bin exp</title>
+        <link rel="alternate" href="https://wh3remyfriends.github.io/2024/05/22/bin-exp/"/>
+        <content type="html">&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;python3 -c &lt;span class=&#34;string&#34;&gt;&amp;quot;print(&amp;#x27;A&amp;#x27; * 64) | ./exp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <updated>2024-05-22T10:53:57.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://wh3remyfriends.github.io/2024/05/22/recon/</id>
+        <title>recon</title>
+        <link rel="alternate" href="https://wh3remyfriends.github.io/2024/05/22/recon/"/>
+        <content type="html"></content>
+        <updated>2024-05-22T10:53:22.000Z</updated>
+    </entry>
+</feed>
