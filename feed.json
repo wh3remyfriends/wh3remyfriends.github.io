@@ -17,7 +17,7 @@
             "url": "https://wh3remyfriends.github.io/2024/05/22/bin-exp/",
             "title": "bin exp",
             "date_published": "2024-05-22T10:53:57.000Z",
-            "content_html": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">python3 -c <span class=\"string\">&quot;print(&#x27;A&#x27; * 64) | ./exp&quot;</span></span><br></pre></td></tr></table></figure>\n",
+            "content_html": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">python3 -c <span class=\"string\">&quot;print(&#x27;A&#x27; * 64)&quot;</span> | ./exp</span><br><span class=\"line\">// u won</span><br></pre></td></tr></table></figure>\n",
             "tags": []
         },
         {
